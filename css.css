@@ -1,0 +1,11 @@
+
+body {
+    background-color: darkblue;
+}
+.box{
+    float:left;
+    margin-right:20px;
+}
+.clear{
+    clear:both;
+}
